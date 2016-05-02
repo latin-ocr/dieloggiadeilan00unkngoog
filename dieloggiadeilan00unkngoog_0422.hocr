@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dieloggiadeilan00unkngoog_0422.png"; bbox 0 0 4009 5859; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2883 211 3543 287">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2883 164 3543 287">
+     <span class='ocr_line' id='line_1_1' title="bbox 2883 211 3543 287; baseline -0.006 0"><span class='ocrx_word' id='word_1_1' title='bbox 2883 211 3543 287; x_wconf 61' lang='lat' dir='ltr'><strong>aanbflvssan</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2654 160 3772 792">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2654 160 3772 792">
+     <span class='ocr_line' id='line_1_2' title="bbox 2654 160 3772 792; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 2654 160 3772 792; x_wconf 95' lang='lat' dir='ltr'><strong>  </strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 3642 622 3772 792; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2839 400 3579 656">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2839 400 3579 656">
+     <span class='ocr_line' id='line_1_3' title="bbox 2839 400 3579 656; baseline 0.001 -1"><span class='ocrx_word' id='word_1_4' title='bbox 2839 400 3579 656; x_wconf 80' lang='grc' dir='ltr'>ΙΙΙΙΙΙΙΙΙΙΙΙΙΙΙΙ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2767 680 3642 748">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2767 680 3642 748">
+     <span class='ocr_line' id='line_1_4' title="bbox 2767 680 3642 748; baseline -0.005 0"><span class='ocrx_word' id='word_1_5' title='bbox 2767 680 3235 748; x_wconf 68' lang='lat'><strong>12390562</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 3248 680 3642 748; x_wconf 63' lang='lat'>&#39;700935</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
